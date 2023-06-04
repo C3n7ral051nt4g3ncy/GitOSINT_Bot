@@ -1,8 +1,6 @@
 # GitOSINT Bot 🤖
 
-<img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/785ddfff-4f43-495e-a981-bc8fa5db1e2e">
-
-
+<img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a0277f17-f13b-4116-be75-76899e0cf6b6">
 
 # Description 🧠
 GitOSINT is a Discord bot that helps to find information/intelligence on Github users.
