@@ -3,7 +3,7 @@
 <img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a0277f17-f13b-4116-be75-76899e0cf6b6">
 
 # Description 🧠
-GitOSINT is a Discord bot that helps to find information/intelligence on Github users.
+GitOSINT is a Discord bot that helps you to find information/intelligence on Github users.
 Simply invite the BOT to your server.
 Many CTF teams spend hours on discord sharing their findings, inviting the BOT to your server is a time saver, no need to search manually on GitHub or to open python scripts, just run the search from your server and get results.
 
