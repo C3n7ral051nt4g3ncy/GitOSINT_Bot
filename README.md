@@ -7,6 +7,10 @@ GitOSINT is a Discord bot that helps you to find information/intelligence on Git
 Simply invite the BOT to your server.
 Many CTF teams spend hours on discord sharing their findings, inviting the BOT to your server is a time saver, no need to search manually on GitHub or to open python scripts, just run the search from your server and get results.
 
+Bot : ```𝐏𝐮𝐫𝐫𝐥𝐨𝐜𝐤𝐇𝐨𝐥𝐦𝐞𝐬 🐾#0607```
+<br>
+Handler: ```𝙲.𝟶.𝟺#1860```
+
 # Why use a Discord Bot 🦾
 
 Simply because it is a huge time saver, and also because it's not easy doing OSINT From your phone. You will need Termux to run python scripts on your phone. With GitOsint on your discord server, it's very easy and fast, whether you are on your PC, laptop, or mobile phone.
@@ -40,6 +44,6 @@ or
 
 <br>
 
-*Notes*: to add to this repo -> Handle, Commands, how to invite the bot + topgg link + Invite link, badges
+*Notes*: to add to this repo -> Commands, how to invite the bot + topgg link + Invite link, badges
 
 
