@@ -24,6 +24,6 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 
 <br>
 
-*Notes*: to add to this repo -> About the bot + photo+ Handle, Contributions $, Commands, how to invite the bot + topgg link + Invite link, Improvements and Issues, Website links, code
+*Notes*: to add to this repo -> About the bot + photo+ Handle, Contributions $, Commands, how to invite the bot + topgg link + Invite link, Improvements and Issues, Website links, code, badges + discord handle badge
 
 
