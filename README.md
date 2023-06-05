@@ -49,13 +49,10 @@ If you like this bot and find it useful for your research, you can contribute fi
 or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
-
 <br>
 
 <br>
 
-<br>
-
-*Notes*: To add to this repo -> topgg link
+*Notes*: To add to this repo -> topgg link (once approved)
 
 
