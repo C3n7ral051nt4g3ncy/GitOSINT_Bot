@@ -21,7 +21,15 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 
 <img width="133" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5d2fbdca-b647-49a5-85fb-86f0985d62a9">
 
+# Commands 🎮
 
+- `!hello` | Greetings
+- `!bot_help`| This will show you all the commands available  
+- `!whoami` | Find out about GitOsint and his past
+- `!gitosint_bot` | Get information the bot's handler/creator
+- `!user username` | Input Github username to find information on a GitHub user
+- `!email email_adress` - Input an email address, this reverse search can find a github user
+- `!repo_emails username repo_name` - Input username + repo name to get all emails associated with a repo
 
 # Future updates 🔮
 Will be updating the Bot with more search possibilities such as searching through Github code and much more...
@@ -44,6 +52,6 @@ or
 
 <br>
 
-*Notes*: to add to this repo -> Commands, how to invite the bot + topgg link + Invite link, badges
+*Notes*: to add to this repo -> how to invite the bot + topgg link + Invite link, Discord badge with invite link
 
 
