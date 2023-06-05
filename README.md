@@ -36,7 +36,7 @@ Will be updating the Bot with more search possibilities such as searching throug
 If there is any problem, just open an issue on this repository.
 
 # Contributions ❤️
-**The Bot is not free for me**, it is online 24/7, and the hosting costs money.
+**The Bot is not free for me**, it is online 24/7, and hosting Mr. Purrlock Holmes costs money.
 If you like this bot and find it useful for your research, you can contribute financially in 2 ways:
 - Send Nitros to my Discord --> `𝙲.𝟶.𝟺#1860` <br>
 or
