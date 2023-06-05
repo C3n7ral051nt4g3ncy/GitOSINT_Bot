@@ -35,7 +35,7 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 - `!email email_adress` - Input an email address, this reverse search can find a github user
 - `!repo_emails username repo_name` - Input username + repo name to get all emails associated with a repo
 
-# Invie GitOSINT Bot 📨
+# Invite GitOSINT Bot 📨
 - You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
 
 # Future updates 🔮
