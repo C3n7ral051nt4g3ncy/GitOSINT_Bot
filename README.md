@@ -30,7 +30,7 @@ If there is any problem, just open an issue on this repository.
 # Contributions ❤️
 **The Bot is not free for me**, it is online 24/7, and the hosting costs money.
 If you like this bot and find it useful for your research, you can contribute financially in 2 ways:
-- Send Nitros to my Discord --> `𝙲.𝟶.𝟺#1860`
+- Send Nitros to my Discord --> `𝙲.𝟶.𝟺#1860` <br>
 or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
