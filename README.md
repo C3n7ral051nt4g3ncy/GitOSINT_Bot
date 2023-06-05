@@ -16,6 +16,18 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 - Read more about the life of **Purrlock Holmes** [Here](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/blob/5c703ec85200ef0a9b3e8181c5fba1ba887519cf/Project%20Resurrection.png)
 
 
+# Future updates 🔮
+Will be updating the Bot with more search possibilities such as searching through Github code and much more...
+If there is any problem, just open an issue on this repository.
+
+# Contributions ❤️
+**The Bot is not free for me**, it is online 24/7, and the hosting costs money.
+If you like this bot and find it useful for your research, you can contribute financially in 2 ways:
+- Send Nitros to my Discord --> `𝙲.𝟶.𝟺#1860`
+or
+- Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
+
+
 
 
 <br>
@@ -24,6 +36,6 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 
 <br>
 
-*Notes*: to add to this repo -> About the bot + photo+ Handle, Contributions $, Commands, how to invite the bot + topgg link + Invite link, Improvements and Issues, Website links, code, badges + discord handle badge
+*Notes*: to add to this repo -> photo+ Handle, Commands, how to invite the bot + topgg link + Invite link, badges + discord handle badge
 
 
