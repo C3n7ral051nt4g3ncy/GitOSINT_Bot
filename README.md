@@ -37,6 +37,8 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 
 # Invite GitOSINT Bot 📨
 - You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
+- GitOSINT Bot has been approved by Top.GG 🎉! You can invite the Bot from Top.gg by clicking [here](https://top.gg/bot/1114671244676177950) and you can also leave stars and feedback on [top.gg](https://top.gg/bot/1114671244676177950)
+<img width="133" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/e30842a7-abf7-41fe-9177-dcdc2e92e59b">
 
 # Future updates 🔮
 Will be updating the Bot with more search possibilities such as searching through Github code and much more...
