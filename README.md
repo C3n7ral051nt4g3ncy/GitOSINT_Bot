@@ -21,7 +21,7 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 
 # About GitOSINT Bot 😺
 - GitOSint Bot wasn't always a Bot. He used to be a real cat. 
-- Read more about the life of **Purrlock Holmes** [Here](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/blob/5c703ec85200ef0a9b3e8181c5fba1ba887519cf/Project%20Resurrection.png)
+- Read more about the life of **Purrlock Holmes** [Here](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/blob/master/Project_Resurrection.png)
 
 <img width="133" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5d2fbdca-b647-49a5-85fb-86f0985d62a9">
 
