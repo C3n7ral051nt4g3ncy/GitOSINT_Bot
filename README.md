@@ -15,6 +15,9 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 - GitOSint Bot wasn't always a Bot. He used to be a real cat. 
 - Read more about the life of **Purrlock Holmes** [Here](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/blob/5c703ec85200ef0a9b3e8181c5fba1ba887519cf/Project%20Resurrection.png)
 
+<img width="133" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5d2fbdca-b647-49a5-85fb-86f0985d62a9">
+
+
 
 # Future updates 🔮
 Will be updating the Bot with more search possibilities such as searching through Github code and much more...
@@ -30,12 +33,13 @@ or
 
 
 
-<br>
 
 <br>
 
 <br>
 
-*Notes*: to add to this repo -> photo+ Handle, Commands, how to invite the bot + topgg link + Invite link, badges + discord handle badge
+<br>
+
+*Notes*: to add to this repo -> Handle, Commands, how to invite the bot + topgg link + Invite link, badges
 
 
