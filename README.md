@@ -11,10 +11,13 @@ Many CTF teams spend hours on discord sharing their findings, inviting the BOT t
 
 Simply because it is a huge time saver, and also because it's not easy doing OSINT From your phone. You will need Termux to run python scripts on your phone. With GitOsint on your discord server, it's very easy and fast, whether you are on your PC, laptop, or mobile phone.
 
+# About GitOSINT Bot
 
 
 
 
-Notes: to add to this repo -> About the bot, Contributions $, Commands, how to invite the bot, Improvements and Issues, Website links, code
+
+
+Notes: to add to this repo -> About the bot + photo, Contributions $, Commands, how to invite the bot, Improvements and Issues, Website links, code
 
 
