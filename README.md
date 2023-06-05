@@ -1,4 +1,7 @@
 # GitOSINT Bot 🤖
+
+<br>
+
 [![Invite GitOsintBot ](https://img.shields.io/badge/Invite%20GitOsintBot-purple?style=for-the-badge&logo=Discord&link=https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
 
 <img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a0277f17-f13b-4116-be75-76899e0cf6b6">
@@ -32,6 +35,9 @@ Simply because it is a huge time saver, and also because it's not easy doing OSI
 - `!email email_adress` - Input an email address, this reverse search can find a github user
 - `!repo_emails username repo_name` - Input username + repo name to get all emails associated with a repo
 
+# Invie GitOSINT Bot 📨
+- You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
+
 # Future updates 🔮
 Will be updating the Bot with more search possibilities such as searching through Github code and much more...
 If there is any problem, just open an issue on this repository.
@@ -44,15 +50,12 @@ or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
 
-
-
-
 <br>
 
 <br>
 
 <br>
 
-*Notes*: to add to this repo -> how to invite the bot + topgg link + Invite link, Discord badge with invite link
+*Notes*: To add to this repo -> topgg link
 
 
