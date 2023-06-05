@@ -1,4 +1,5 @@
 # GitOSINT Bot 🤖
+[![Invite GitOsintBot ](https://img.shields.io/badge/Invite%20GitOsintBot-purple?style=for-the-badge&logo=Discord&link=https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
 
 <img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a0277f17-f13b-4116-be75-76899e0cf6b6">
 
