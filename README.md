@@ -52,3 +52,8 @@ If you like this bot and find it useful for your research, you can contribute fi
 or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
+# Thanks 🙏
+A big Thank you to [@Hippiie](https://github.com/hippiiee) who contributed & inspired the SSH and GPG Keys search function with the decoding of the GPG Pub Key from his tool [osgint](https://github.com/hippiiee/osgint).<br>
+
+<a href="https://github.com/hippiiee"><img height="66" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5fc7eda5-51a8-4d50-8f03-0e4ee267480d"></a>
+
