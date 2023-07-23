@@ -172,20 +172,6 @@
             "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "2berega.spb.ru": {
-            "tags": [
-                "ru"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d"
-            ],
-            "alexaRank": 1128372,
-            "urlMain": "https://2berega.spb.ru",
-            "url": "https://2berega.spb.ru/user/{username}",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "2d-3d": {
             "tags": [
                 "ru"
@@ -6429,17 +6415,6 @@
             "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis"
         },
-        "Gamesubject": {
-            "tags": [
-                "ru"
-            ],
-            "checkType": "status_code",
-            "alexaRank": 690202,
-            "urlMain": "https://gamesubject.com",
-            "url": "https://gamesubject.com/{username}",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Gapyear": {
             "tags": [
                 "gb",
@@ -7248,18 +7223,6 @@
             "url": "https://hackaday.io/{username}",
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis"
-        },
-        "Hackenproof": {
-            "tags": [
-                "in",
-                "ua"
-            ],
-            "checkType": "status_code",
-            "alexaRank": 662911,
-            "urlMain": "https://hackenproof.com/arbin",
-            "url": "https://hackenproof.com/{username}",
-            "usernameClaimed": "arbin",
-            "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "HackerNews": {
             "tags": [
@@ -8802,20 +8765,6 @@
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "Letschatlove": {
-            "tags": [
-                "in"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "The user whose profile you are trying to view does not exist."
-            ],
-            "alexaRank": 1054898,
-            "urlMain": "https://letschatlove.com",
-            "url": "https://letschatlove.com/profile/{username}/",
-            "usernameClaimed": "Fusion",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Letterboxd": {
             "tags": [
                 "us"
@@ -9728,20 +9677,6 @@
             "urlMain": "https://maxpark.com",
             "url": "https://maxpark.com/user/{username}",
             "usernameClaimed": "red",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "Mbclub": {
-            "tags": [
-                "ru"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u043e\u0435 \u0438\u043c\u044f."
-            ],
-            "alexaRank": 315579,
-            "urlMain": "https://www.mbclub.ru/",
-            "url": "https://www.mbclub.ru/forum/members/?username={username}",
-            "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "Mcbans": {
@@ -20760,16 +20695,6 @@
             "usernameUnclaimed": "noonewouldeverusethis7",
             "alexaRank": 13211617
         },
-        "motorhomefun.co.uk": {
-            "tags": [
-                "forum"
-            ],
-            "engine": "XenForo",
-            "alexaRank": 834914,
-            "urlMain": "http://www.motorhomefun.co.uk/forum/",
-            "usernameClaimed": "alex",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "mssg.me": {
             "tags": [
                 "ru"
@@ -26959,10 +26884,10 @@
             ],
             "checkType": "message",
             "absenceStrs": [
-                "<title>Start a Blog"
+                "<title>Page not found"
             ],
             "presenseStrs": [
-                "&#8211; Thoughts.com</title>"
+                "<span class=\"activity"
             ],
             "urlMain": "http://thoughts.com",
             "url": "http://thoughts.com/members/{username}",
