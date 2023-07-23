@@ -66,7 +66,7 @@ A big Thank you to
 
 - [@soxoj](https://github.com/soxoj) for making Maigret OSINT Tool and making it available for people to use within their own projects.
 - [@Hippiie](https://github.com/hippiiee) who contributed & inspired the SSH and GPG Keys search function with the decoding of the GPG Pub Key from his tool [osgint](https://github.com/hippiiee/osgint).
-- [Lexxrt](https://github.com/Lexxrt) for making the tool called Firefly which is part of GitOSINT Bot. <br>
+- [@Lexxrt](https://github.com/Lexxrt) for making the tool called Firefly which is part of GitOSINT Bot. <br>
 
 <a href="https://github.com/hippiiee"><img height="66" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5fc7eda5-51a8-4d50-8f03-0e4ee267480d"></a>
 
