@@ -278,17 +278,6 @@
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "4cheat": {
-            "tags": [
-                "forum",
-                "ru"
-            ],
-            "engine": "XenForo",
-            "alexaRank": 221253,
-            "urlMain": "https://4cheat.ru",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "4gameforum": {
             "tags": [
                 "forum",
@@ -1594,20 +1583,6 @@
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "Autolada": {
-            "tags": [
-                "ru"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "<title> :: AUTOLADA.RU</title>"
-            ],
-            "alexaRank": 152145,
-            "urlMain": "https://www.autolada.ru/",
-            "url": "https://www.autolada.ru/profile.php?mode=viewprofile&u={username}",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Autolenta": {
             "tags": [
                 "auto",
@@ -2451,21 +2426,6 @@
             "urlMain": "https://boominfo.ru",
             "url": "https://boominfo.ru/members/?username={username}",
             "usernameClaimed": "boominfo",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "Boosty": {
-            "tags": [
-                "eu",
-                "ru"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "<title>Boosty.to - \u043c\u0435\u0441\u0442\u043e, \u0433\u0434\u0435 \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u0445\u043e\u0434</title>"
-            ],
-            "alexaRank": 36134,
-            "urlMain": "https://boosty.to",
-            "url": "https://boosty.to/{username}",
-            "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "Borsch.gallery": {
@@ -4968,23 +4928,6 @@
             "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "F6S": {
-            "tags": [
-                "in"
-            ],
-            "errors": {
-                "custom-page-main-frontpage-captcha": "Captcha detected"
-            },
-            "checkType": "message",
-            "absenceStrs": [
-                "Nothing to see here - 404"
-            ],
-            "alexaRank": 8897,
-            "urlMain": "https://f6s.com/",
-            "url": "https://www.f6s.com/{username}",
-            "usernameClaimed": "vidheeshnacode",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Fabswingers": {
             "checkType": "message",
             "absenceStrs": [
@@ -7150,18 +7093,7 @@
             "urlMain": "https://forum.guns.ru/",
             "url": "https://forum.guns.ru/forummisc/show_profile/00098415?username={username}",
             "usernameClaimed": "red",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "GunsAndAmmo": {
-            "tags": [
-                "us"
-            ],
-            "checkType": "status_code",
-            "alexaRank": 119883,
-            "urlMain": "https://gunsandammo.com/",
-            "url": "https://forums.gunsandammo.com/profile/{username}",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
+            "usernameUnclaimed": "noonewouldeverusethis7" 
         },
         "Guru": {
             "tags": [
@@ -8830,23 +8762,6 @@
             "alexaRank": 25927,
             "urlMain": "https://www.librarything.com/",
             "url": "https://www.librarything.com/profile/{username}",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "Librusec": {
-            "tags": [
-                "br",
-                "ru",
-                "us"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "/a/300686",
-                "/a/280282"
-            ],
-            "alexaRank": 68771,
-            "urlMain": "https://lib.rus.ec",
-            "url": "https://lib.rus.ec/user/{username}",
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
@@ -11331,8 +11246,11 @@
                 "in"
             ],
             "checkType": "message",
+            "presenseStrs": [
+                "- Open Collective</title>"
+            ],
             "absenceStrs": [
-                "Not found</h1>"
+                "Collect and spend money transparently.</title>"
             ],
             "alexaRank": 33595,
             "urlMain": "https://opencollective.com/",
@@ -12572,20 +12490,6 @@
             "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis"
         },
-        "Proshkolu": {
-            "tags": [
-                "ru"
-            ],
-            "checkType": "message",
-            "absenceStrs": [
-                "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d"
-            ],
-            "alexaRank": 29471,
-            "urlMain": "https://proshkolu.ru",
-            "url": "https://proshkolu.ru/user/{username}/",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Prosvetlenie": {
             "ignore403": true,
             "tags": [
@@ -13200,18 +13104,6 @@
             "engine": "vBulletin",
             "alexaRank": 6984586,
             "urlMain": "http://www.redorchestra.ru",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "Redtube": {
-            "tags": [
-                "porn",
-                "us"
-            ],
-            "checkType": "status_code",
-            "alexaRank": 1090,
-            "urlMain": "https://ru.redtube.com/",
-            "url": "https://ru.redtube.com/users/{username}",
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
@@ -14303,11 +14195,14 @@
             ],
             "checkType": "message",
             "absenceStrs": [
-                "<img loading=\"lazy\" src=\"/assets/images/ent_not_found_404.png\" alt=\"404\""
+                "404 Not Found"
+            ],
+            "presenseStrs": [
+                "</script><title>"
             ],
             "alexaRank": 184,
             "urlMain": "https://www.shutterstock.com",
-            "url": "https://www.shutterstock.com/fi/g/{username}/about",
+            "url": "https://www.shutterstock.com/g/{username}/about",
             "usernameClaimed": "adam",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
@@ -14758,8 +14653,11 @@
                 "us"
             ],
             "checkType": "message",
+            "presenseStrs": [
+                "View the speedrunning profile of"
+            ],
             "absenceStrs": [
-                "not found."
+                "<title>Not found -"
             ],
             "alexaRank": 9724,
             "urlMain": "https://speedrun.com/",
@@ -15108,21 +15006,6 @@
             "engine": "vBulletin",
             "alexaRank": 115288,
             "urlMain": "https://www.stratege.ru",
-            "usernameClaimed": "blue",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "Strava": {
-            "tags": [
-                "us"
-            ],
-            "regexCheck": "^[^\\.]+$",
-            "checkType": "message",
-            "absenceStrs": [
-                "Strava | Run and Cycling Tracking on the Social Network for Athletes"
-            ],
-            "alexaRank": 1099,
-            "urlMain": "https://www.strava.com/",
-            "url": "https://www.strava.com/athletes/{username}",
             "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
@@ -16179,18 +16062,6 @@
             "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "Trainsim": {
-            "urlSubpath": "/vbts",
-            "tags": [
-                "forum",
-                "in"
-            ],
-            "engine": "vBulletin",
-            "alexaRank": 81136,
-            "urlMain": "https://www.trainsim.com/",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Trakt": {
             "tags": [
                 "de",
@@ -16405,19 +16276,6 @@
             "alexaRank": 551363,
             "urlMain": "https://truthbook.com",
             "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "TryHackMe": {
-            "tags": [
-                "hacking",
-                "in",
-                "us"
-            ],
-            "checkType": "status_code",
-            "alexaRank": 23474,
-            "urlMain": "https://tryhackme.com/",
-            "url": "https://tryhackme.com/p/{username}",
-            "usernameClaimed": "ashu",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "Tumblr": {
@@ -17645,17 +17503,6 @@
             "usernameClaimed": "alex",
             "usernameUnclaimed": "noonewouldusethis7"
         },
-        "Winamp": {
-            "tags": [
-                "forum",
-                "us"
-            ],
-            "engine": "vBulletin",
-            "alexaRank": 52948,
-            "urlMain": "http://forums.winamp.com",
-            "usernameClaimed": "red",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Windows10forums": {
             "tags": [
                 "forum",
@@ -18429,20 +18276,6 @@
             "usernameClaimed": "vera",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
-        "Zhihu": {
-            "tags": [
-                "cn"
-            ],
-            "checkType": "message",
-            "alexaRank": 139,
-            "urlMain": "https://www.zhihu.com/",
-            "url": "https://www.zhihu.com/people/{username}",
-            "absenceStrs": [
-                "\u4f60\u4f3c\u4e4e\u6765\u5230\u4e86\u6ca1\u6709\u77e5\u8bc6\u5b58\u5728\u7684\u8352\u539f"
-            ],
-            "usernameClaimed": "blue",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
         "Zhyk": {
             "disabled": true,
             "tags": [
@@ -18687,19 +18520,6 @@
             "urlMain": "https://author.today",
             "url": "https://author.today/u/{username}",
             "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "authorSTREAM": {
-            "tags": [
-                "documents",
-                "in",
-                "sharing"
-            ],
-            "checkType": "status_code",
-            "alexaRank": 6034,
-            "urlMain": "http://www.authorstream.com/",
-            "url": "http://www.authorstream.com/{username}/",
-            "usernameClaimed": "blue",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "autotob.ru": {
@@ -19425,17 +19245,6 @@
             "alexaRank": 926078,
             "urlMain": "http://fablero.ucoz.ru",
             "usernameClaimed": "alex",
-            "usernameUnclaimed": "noonewouldeverusethis7"
-        },
-        "fanat1k": {
-            "tags": [
-                "forum",
-                "ru"
-            ],
-            "engine": "vBulletin",
-            "alexaRank": 84823,
-            "urlMain": "https://forum.fanat1k.ru",
-            "usernameClaimed": "red",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "fanficslandia.com": {
@@ -22061,17 +21870,6 @@
                 "forum",
                 "military"
             ]
-        },
-        "vegalab": {
-            "tags": [
-                "forum",
-                "ru"
-            ],
-            "engine": "vBulletin",
-            "alexaRank": 99427,
-            "urlMain": "http://forum.vegalab.ru",
-            "usernameClaimed": "adam",
-            "usernameUnclaimed": "noonewouldeverusethis7"
         },
         "vento-club.com": {
             "engine": "uCoz",
@@ -26571,17 +26369,6 @@
             "usernameClaimed": "red",
             "alexaRank": 2347
         },
-        "fancy.com": {
-            "tags": [
-                "shopping"
-            ],
-            "engine": "engine404",
-            "urlMain": "https://fancy.com",
-            "url": "https://fancy.com/{username}",
-            "usernameUnclaimed": "noonewouldeverusethis7",
-            "usernameClaimed": "alex",
-            "alexaRank": 55415
-        },
         "fotostrana.ru": {
             "tags": [
                 "ru"
@@ -29795,16 +29582,6 @@
                 "forum"
             ],
             "alexaRank": 3887958
-        },
-        "actual-porn.org": {
-            "urlMain": "http://actual-porn.org",
-            "engine": "vBulletin",
-            "usernameClaimed": "alex",
-            "usernameUnclaimed": "noonewouldeverusethis7",
-            "tags": [
-                "forum"
-            ],
-            "alexaRank": 147937
         },
         "Aminus3": {
             "absenceStrs": [
