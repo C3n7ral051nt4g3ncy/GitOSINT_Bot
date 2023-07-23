@@ -37,7 +37,7 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!hello` | Greetings
 - `!bot_help`| This will show you all the commands available  
 - `!whoami` | Find out about GitOsint and his past
-- `!gitosint_bot` | Get information the bot's handler/creator
+- `!gitosint_bot` | Get information on the bot's handler/creator
 - `!user {username}` | Input Github username to find information on a GitHub user
 - `!email {email_address}` - Input an email address, this reverse search can find a github user
 - `!repo_emails {username} {repo_name}` - Input username + repo name to get all emails associated with a repo
