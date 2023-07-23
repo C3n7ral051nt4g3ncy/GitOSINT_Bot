@@ -30,7 +30,8 @@ Simply because it is a huge time saver and because you can search from your phon
 - GitOSint Bot wasn't always a Bot. He used to be a real cat called Purrlock Holmes. 
 - Read more about the life of **Purrlock Holmes** [Here](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/blob/master/Project_Resurrection.png)
 
-<img width="133" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5d2fbdca-b647-49a5-85fb-86f0985d62a9">
+<img width="333" alt="Screen Shot 2023-07-23 at 22 30 04" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a596fdd9-db87-4691-a26e-4c2da70d7b5c">
+
 
 # Commands 🎮
 
