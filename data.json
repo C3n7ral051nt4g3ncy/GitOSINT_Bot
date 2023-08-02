@@ -15350,6 +15350,21 @@
             "usernameClaimed": "mixdop",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
+        "Threads": {
+            "checkType": "message",
+            "absenceStrs": [
+                "<title>Threads</title>"
+            ],
+            "presenseStrs": [
+                ") on Threads</title>"
+            ],
+            "url": "https://www.threads.net/@{username}",
+            "usernameClaimed": "davecamarillo",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+            "tags": [
+                "networking"
+            ]
+        },
         "TJournal": {
             "similarSearch": true,
             "tags": [
