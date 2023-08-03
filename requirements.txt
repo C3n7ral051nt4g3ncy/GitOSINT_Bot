@@ -1,3 +1,7 @@
 discord.py
 requests
 maigret==0.4.4
+masto==2.0.5
+w3lib
+beautifulsoup4
+tqdm
