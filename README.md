@@ -16,6 +16,7 @@ The bot can:
 - Provide information on the username history of a Twitter user
 - Extract intelligence from Instagram accounts
 - Provide intelligence on Mastodon users
+- Find out if a Gmail address is deliverable, meaning if it exists and is valid or not.
 
 
 **Simply invite the BOT to your server.**
@@ -53,6 +54,7 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!twitter_history {username}` - Twitter Historical OSINT Tool | It can currently be used to look up **542 million** historical screen names for 443 million Twitter accounts | Made by [@travisbrown](https://github.com/travisbrown)
 - `!masto {username}` - Masto OSINT Tool | It will scan for the username across Mastodon instances/servers by using the Mastodon API and also the Masto OSINT Tool own database which often beats the Mastodon API | Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
 - `!toutatis {username} {sessionID}` - Toutatis made by [@Megadiose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
+- `!gmail {email}` - Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
 
 # Invite GitOSINT Bot 📨
 - You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
