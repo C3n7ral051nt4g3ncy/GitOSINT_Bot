@@ -328,12 +328,6 @@
     "urlMain": "https://www.cgtrader.com",
     "username_claimed": "blue"
   },
-  "CNET": {
-    "errorType": "status_code",
-    "url": "https://www.cnet.com/profiles/{}/",
-    "urlMain": "https://www.cnet.com/",
-    "username_claimed": "blue"
-  },
   "CTAN": {
     "errorType": "status_code",
     "url": "https://ctan.org/author/{}",
@@ -631,13 +625,6 @@
     "urlMain": "https://community.eintracht.de/",
     "username_claimed": "mmammu"
   },
-  "Enjin": {
-    "errorMsg": "Yikes, there seems to have been an error. We've taken note and will check out the problem right away!",
-    "errorType": "message",
-    "url": "https://www.enjin.com/profile/{}",
-    "urlMain": "https://www.enjin.com/",
-    "username_claimed": "blue"
-  },
   "Envato Forum": {
     "errorType": "status_code",
     "url": "https://forums.envato.com/u/{}",
@@ -669,12 +656,6 @@
     "url": "https://{}.exposure.co/",
     "urlMain": "https://exposure.co/",
     "username_claimed": "jonasjacobsson"
-  },
-  "EyeEm": {
-    "errorType": "status_code",
-    "url": "https://www.eyeem.com/u/{}",
-    "urlMain": "https://www.eyeem.com/",
-    "username_claimed": "blue"
   },
   "F3.cool": {
     "errorType": "status_code",
@@ -924,12 +905,6 @@
     "urlMain": "https://www.gumroad.com/",
     "username_claimed": "blue"
   },
-  "GunsAndAmmo": {
-    "errorType": "status_code",
-    "url": "https://forums.gunsandammo.com/profile/{}",
-    "urlMain": "https://gunsandammo.com/",
-    "username_claimed": "adam"
-  },
   "Gutefrage": {
     "errorType": "status_code",
     "url": "https://www.gutefrage.net/nutzer/{}",
@@ -1049,12 +1024,6 @@
     "url": "https://www.ifttt.com/p/{}",
     "urlMain": "https://www.ifttt.com/",
     "username_claimed": "blue"
-  },
-  "IRL": {
-    "errorType": "status_code",
-    "url": "https://www.irl.com/{}",
-    "urlMain": "https://www.irl.com/",
-    "username_claimed": "hacker"
   },
   "Icons8 Community": {
     "errorType": "status_code",
@@ -1603,13 +1572,6 @@
     "urlMain": "https://pypi.org",
     "username_claimed": "Blue"
   },
-  "Quizlet": {
-    "errorMsg": "Page Unavailable</title>",
-    "errorType": "message",
-    "url": "https://quizlet.com/{}",
-    "urlMain": "https://quizlet.com",
-    "username_claimed": "blue"
-  },
   "Rajce.net": {
     "errorType": "status_code",
     "regexCheck": "^[a-zA-Z0-9@_-]$",
@@ -1844,13 +1806,6 @@
     "url": "https://soylentnews.org/~{}",
     "urlMain": "https://soylentnews.org",
     "username_claimed": "adam"
-  },
-  "Speedrun.com": {
-    "errorMsg": "not found.",
-    "errorType": "message",
-    "url": "https://speedrun.com/user/{}",
-    "urlMain": "https://speedrun.com/",
-    "username_claimed": "3Tau"
   },
   "Splice": {
     "errorType": "status_code",
@@ -2385,12 +2340,6 @@
     "url": "https://egpu.io/forums/profile/{}/",
     "urlMain": "https://egpu.io/",
     "username_claimed": "blue"
-  },
-  "ebio.gg": {
-    "errorType": "status_code",
-    "url": "https://ebio.gg/{}",
-    "urlMain": "https:/ebio.gg",
-    "username_claimed": "dev"
   },
   "eintracht": {
     "errorType": "status_code",
