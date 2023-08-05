@@ -17,6 +17,7 @@ The bot can:
 - Extract intelligence from Instagram accounts
 - Provide intelligence on Mastodon users
 - Find out if a Gmail address is deliverable, meaning if it exists and is valid or not.
+- Scan a username across all sites that are part of the Sherlock-project
 
 
 **Simply invite the BOT to your server.**
@@ -55,6 +56,7 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!masto {username}` - Masto OSINT Tool | It will scan for the username across Mastodon instances/servers by using the Mastodon API and also the Masto OSINT Tool own database which often beats the Mastodon API | Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
 - `!toutatis {username} {sessionID}` - Toutatis made by [@Megadiose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
 - `!gmail {email}` - Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
+- `!sherlock {username}` - Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
 
 # Invite GitOSINT Bot 📨
 - You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
@@ -73,12 +75,14 @@ or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
 # Thanks 🙏
-A big Thanks to Megadose (Palenath), Soxoj, Hippiiee, Lexxrt, and TravisBrown: ⬇
+A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, and TravisBrown: ⬇
 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/0c6461ea-68e5-4bf5-8e6e-50229f2ba9b3" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5fc7eda5-51a8-4d50-8f03-0e4ee267480d" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/586213da-5870-4af3-b3c9-4431da31b820" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/77971867-3b51-4262-bae8-07ec15a039ec" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/2efae689-307a-489f-9012-54b41d847927" height="77"></a>
+<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/e64ede6e-3873-4110-9fd0-d2aa1ea3bf8b" height="77"></a>
+
 
 
