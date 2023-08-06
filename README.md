@@ -75,6 +75,17 @@ If you like this bot and find it useful for your research, you can contribute fi
 or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
+# Use of third-party existant tools and code
+The tools I use within this project are mentionned, as well as their authors.
+The tools are under the **GNU General Public License**
+
+**(GNU GPL or simply GPL) is a series of widely-used free software licenses that guarantee end-users the freedom to run, study, share, and modify the software licensed under it.** Specifically, the GPL grants users the following four freedoms:
+
+- Freedom 0: The freedom to run the program for any purpose.
+- Freedom 1: The freedom to study how the program works and adapt it to your needs (access to the source code is a precondition for this).
+- Freedom 2: The freedom to redistribute copies so you can help others.
+- Freedom 3: The freedom to improve the program and release your improvements to the public, so the whole community benefits from this.
+
 # Thanks 🙏
 A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, Un1kon: ⬇
 
@@ -85,6 +96,3 @@ A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/2efae689-307a-489f-9012-54b41d847927" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/e64ede6e-3873-4110-9fd0-d2aa1ea3bf8b" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/1967c6a4-f625-428a-b4aa-afd61564b26c)" height="77"></a>
-
-
-
