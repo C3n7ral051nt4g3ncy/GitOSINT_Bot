@@ -77,7 +77,7 @@ or
 
 
 # Thanks 🙏
-A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, Un1kon: ⬇
+A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n: ⬇
 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/0c6461ea-68e5-4bf5-8e6e-50229f2ba9b3" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5fc7eda5-51a8-4d50-8f03-0e4ee267480d" height="77"></a>
