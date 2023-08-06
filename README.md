@@ -49,6 +49,7 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!user {username}` | Input Github username to find information on a GitHub user
 - `!email {email_address}` - Input an email address, this reverse search can find a github user
 - `!repo_emails {username} {repo_name}` - Input username + repo name to get all emails associated with a repo
+- `!gitrepos {username}` - Powerful tool, this is based on GitStalk tool, from a username, all user repos are scanned and all emails associated are provided
 - `!search_keys {username}` - Based on OSGINT made by [Hippiiee](https://github.com/hippiiee/osgint) | Input username to search for GPG and SSH Keys. (*GPG Keys found are decoded and will show the user email address)
 - `!phone_search {phone number}` - Firefly Tool made by [Lexxrt](https://github.com/Lexxrt) | You will get intelligence on the phone number such as country, phone company, and sometimes location for the USA | Phone international format to input= +336XXXXXXXX
 - `!maigret {username}` - Maigret OSINT Tool for username enumeration by [soxoj](https://github.com/soxoj) | Input username and get a full scan on over 2500 sites. (The sites are in the data.json file)
