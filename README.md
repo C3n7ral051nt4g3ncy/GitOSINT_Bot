@@ -47,17 +47,17 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!whoami` | Find out about GitOsint and his past
 - `!gitosint_bot` | Get information on the bot's handler/creator
 - `!user {username}` | Input Github username to find information on a GitHub user
-- `!email {email_address}` - Input an email address, this reverse search can find a github user
-- `!repo_emails {username} {repo_name}` - Input username + repo name to get all emails associated with a repo
-- `!gitrepos {username}` - Powerful tool, this is based on GitStalk tool, from a username, all user repos are scanned and all emails associated are provided
-- `!search_keys {username}` - Based on OSGINT made by [Hippiiee](https://github.com/hippiiee/osgint) | Input username to search for GPG and SSH Keys. (*GPG Keys found are decoded and will show the user email address)
-- `!phone_search {phone number}` - Firefly Tool made by [Lexxrt](https://github.com/Lexxrt) | You will get intelligence on the phone number such as country, phone company, and sometimes location for the USA | Phone international format to input= +336XXXXXXXX
-- `!maigret {username}` - Maigret OSINT Tool for username enumeration by [soxoj](https://github.com/soxoj) | Input username and get a full scan on over 2500 sites. (The sites are in the data.json file)
-- `!twitter_history {username}` - Twitter Historical OSINT Tool | It can currently be used to look up **542 million** historical screen names for 443 million Twitter accounts | Made by [@travisbrown](https://github.com/travisbrown)
-- `!masto {username}` - Masto OSINT Tool | It will scan for the username across Mastodon instances/servers by using the Mastodon API and also the Masto OSINT Tool own database which often beats the Mastodon API | Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
-- `!toutatis {username} {sessionID}` - Toutatis made by [@Megadiose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
-- `!gmail {email}` - Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
-- `!sherlock {username}` - Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
+- `!email {email_address}` | Input an email address, this reverse search can find a github user
+- `!repo_emails {username} {repo_name}` | Input username + repo name to get all emails associated with a repo
+- `!gitrepos {username}` | Powerful tool, this is based on GitStalk tool, from a username, all user repos are scanned and all emails associated are provided
+- `!search_keys {username}` | Based on OSGINT made by [Hippiiee](https://github.com/hippiiee/osgint) | Input username to search for GPG and SSH Keys. (*GPG Keys found are decoded and will show the user email address)
+- `!phone_search {phone number}` | Firefly Tool made by [Lexxrt](https://github.com/Lexxrt) | You will get intelligence on the phone number such as country, phone company, and sometimes location for the USA | Phone international format to input= +336XXXXXXXX
+- `!maigret {username}` | Maigret OSINT Tool for username enumeration by [soxoj](https://github.com/soxoj) | Input username and get a full scan on over 2500 sites. (The sites are in the data.json file)
+- `!twitter_history {username}` | Twitter Historical OSINT Tool | It can currently be used to look up **542 million** historical screen names for 443 million Twitter accounts | Made by [@travisbrown](https://github.com/travisbrown)
+- `!masto {username}` | Masto OSINT Tool | It will scan for the username across Mastodon instances/servers by using the Mastodon API and also the Masto OSINT Tool own database which often beats the Mastodon API | Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
+- `!toutatis {username} {sessionID}` | Toutatis made by [@Megadiose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
+- `!gmail {email}` | Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
+- `!sherlock {username}` | Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
 
 # Invite GitOSINT Bot 📨
 - You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
