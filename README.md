@@ -18,6 +18,7 @@ The bot can:
 - Provide intelligence on Mastodon users
 - Find out if a Gmail address is deliverable, meaning if it exists and is valid or not.
 - Scan a username across all sites that are part of the Sherlock-project
+- Provide intelligence on a public Google Document with xeuledoc OSINT Tool.
 
 
 **Simply invite the BOT to your server.**
