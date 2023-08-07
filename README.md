@@ -58,6 +58,8 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!toutatis {username} {sessionID}` | Toutatis made by [@Megadiose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
 - `!gmail {email}` | Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
 - `!sherlock {username}` | Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
+- `!xeuledoc {Google_doc_link}` | xeuledoc created by [@Malfrats](https://github.com/Malfrats)
+
 
 # Invite GitOSINT Bot 📨
 - You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
