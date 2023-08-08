@@ -86,6 +86,10 @@ If you like this bot and find it useful for your research, you can contribute fi
 or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
+# Current Number of servers 
+GitOSINT is currently used in: `42 discord servers`
+
+
 
 # Thanks 🙏
 A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n, Malfrats Industries: ⬇
