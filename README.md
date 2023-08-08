@@ -19,10 +19,10 @@ The bot can:
 - Find out if a Gmail address is deliverable, meaning if it exists and is valid or not.
 - Scan a username across all sites that are part of the Sherlock-project
 - Provide intelligence on a public Google Document with xeuledoc OSINT Tool.
+- Provide intelligence on sites the target email is registered on with holehe. (holehe is one of the best tools out there)
 
 
 **Simply invite the BOT to your server.**
-Many CTF teams spend hours on discord sharing their findings and communicating, so inviting the BOT to your server is a time saver, no need to search manually or to open python scripts, just run the search from your own server and get results.
 
 Bot : ```𝐏𝐮𝐫𝐫𝐥𝐨𝐜𝐤𝐇𝐨𝐥𝐦𝐞𝐬 🐾#0607```
 <br>
@@ -30,7 +30,14 @@ Handler: ```𝙲.𝟶.𝟺#1860```
 
 # Why use a Discord Bot 🦾
 
-Simply because it is a huge time saver and because you can search from your phone, it's not easy doing OSINT From your phone, but with GitOSINT Bot everything becomes very easy.
+Using command line OSINT Tools on a computer requires the opening of numerous scripts.
+Same on a phone if you are doing OSINT "On-the-Go" by using Termux which can be demanding.
+
+**GitOSINT Bot (Purrlock Holmes) consolidates many tools into one**, eliminating the need to individually open scripts. This means that individuals can conveniently conduct OSINT investigations right from their Discord on their phones. Many CTF teams already dedicate countless hours on Discord discussing findings and communicating. The Bot can be a big help. 
+
+By adding this BOT to your server, you'll save valuable time. No more manual searches or launching python scripts. Simply initiate a search within your server and receive immediate results.
+
+Many CTF teams spend hours on discord sharing their findings and communicating, so inviting the BOT to your server is a time saver, no need to search manually or to open python scripts, just run the search from your own server and get results.
 
 # About GitOSINT Bot 😺
 - GitOSint Bot wasn't always a Bot. He used to be a real cat called Purrlock Holmes. 
@@ -56,10 +63,11 @@ Simply because it is a huge time saver and because you can search from your phon
 - `!maigret {username}` | Maigret OSINT Tool for username enumeration by [soxoj](https://github.com/soxoj) | Input username and get a full scan on over 2500 sites. (The sites are in the data.json file)
 - `!twitter_history {username}` | Twitter Historical OSINT Tool | It can currently be used to look up **542 million** historical screen names for 443 million Twitter accounts | Made by [@travisbrown](https://github.com/travisbrown)
 - `!masto {username}` | Masto OSINT Tool | It will scan for the username across Mastodon instances/servers by using the Mastodon API and also the Masto OSINT Tool own database which often beats the Mastodon API | Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
-- `!toutatis {username} {sessionID}` | Toutatis made by [@Megadiose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
+- `!toutatis {username} {sessionID}` | Toutatis made by [@megadose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
 - `!gmail {email}` | Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
 - `!sherlock {username}` | Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
 - `!xeuledoc {Google_doc_link}` | xeuledoc created by [@Malfrats](https://github.com/Malfrats)
+- `!holehe {email}` | holehe is a powerful tool known by most OSINT professionals | It is made by [@megadose also known as Palenath](https://github.com/megadose) | Get information on the sites the target email is registered on.
 
 
 # Invite GitOSINT Bot 📨
