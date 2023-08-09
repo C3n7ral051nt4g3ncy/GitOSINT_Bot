@@ -19,3 +19,4 @@ openpyxl<=3.0.10
 exrex>=0.11.0
 xeuledoc
 holehe==1.61
+socialscan
