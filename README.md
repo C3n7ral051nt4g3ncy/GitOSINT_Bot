@@ -20,6 +20,7 @@ The bot can:
 - Scan a username across all sites that are part of the Sherlock-project
 - Provide intelligence on a public Google Document with xeuledoc OSINT Tool.
 - Provide intelligence on sites the target email is registered on with holehe. (holehe is one of the best tools out there)
+- Scan 2 usernames at once using socialscan 
 
 
 **Simply invite the BOT to your server.**
@@ -68,6 +69,7 @@ Many CTF teams spend hours on discord sharing their findings and communicating, 
 - `!sherlock {username}` | Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
 - `!xeuledoc {Google_doc_link}` | xeuledoc created by [@Malfrats](https://github.com/Malfrats)
 - `!holehe {email}` | holehe is a powerful tool known by most OSINT professionals | It is made by [@megadose also known as Palenath](https://github.com/megadose) | Get information on the sites the target email is registered on.
+- `!socialscan {username}` or `!socialscan {username_1},{username_2} `| socialscan is a well-known tool made by [@iojw](https://github.com/iojw) | Scan for one or two usernames simultaneously across various social websites.
 
 
 # Invite GitOSINT Bot 📨
@@ -92,7 +94,7 @@ GitOSINT is currently used in: `42 discord servers`
 
 
 # Thanks 🙏
-A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n, Malfrats Industries: ⬇
+A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n, Malfrats Industries, iojw: ⬇
 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/0c6461ea-68e5-4bf5-8e6e-50229f2ba9b3" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5fc7eda5-51a8-4d50-8f03-0e4ee267480d" height="77"></a>
@@ -102,6 +104,8 @@ A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/e64ede6e-3873-4110-9fd0-d2aa1ea3bf8b" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/1967c6a4-f625-428a-b4aa-afd61564b26c)" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/d1c93f48-44b9-48c2-999c-e7fd3f0944a9)" height="77"></a>
+<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/6e765ab5-35a8-4117-aa7f-9b8889f5be4b)" height="77"></a>
+
 
 
 # Use of third-party tools and code 🛠️
