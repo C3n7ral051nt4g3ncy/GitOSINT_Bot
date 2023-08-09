@@ -40,7 +40,7 @@ By adding this BOT to your server, you'll save valuable time. No more manual sea
 Many CTF teams spend hours on discord sharing their findings and communicating, so inviting the BOT to your server is a time saver, no need to search manually or to open python scripts, just run the search from your own server and get results.
 
 # About GitOSINT Bot 😺
-- GitOSint Bot wasn't always a Bot. He used to be a real cat called Purrlock Holmes. 
+- GitOSint Bot wasn't always a Bot. He used to be a real cat called Purrlock Holmes. He was a very prolific spy.
 - Read more about the life of **Purrlock Holmes** [Here](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/blob/master/Project_Resurrection.png)
 
 
