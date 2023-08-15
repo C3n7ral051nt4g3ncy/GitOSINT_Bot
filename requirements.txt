@@ -20,3 +20,7 @@ exrex>=0.11.0
 xeuledoc
 holehe==1.61
 socialscan
+httpx
+geopy
+aiohttp
+fpdf
