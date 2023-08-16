@@ -21,7 +21,9 @@ The bot can:
 - Provide intelligence on a public Google Document with xeuledoc OSINT Tool.
 - Provide intelligence on sites the target email is registered on with holehe. (holehe is one of the best tools out there)
 - Scan 2 usernames at once using socialscan
-- Scan usernames using WhatsMyName 
+- Scan usernames across +600 sites using the WhatsMyName project
+- Get Historical weather from any city ona given date
+
 
 
 **Simply invite the BOT to your server.**
@@ -114,7 +116,7 @@ or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
 # Current Number of servers 
-GitOSINT is currently used in: `42 discord servers`
+GitOSINT Bot (Purrlock Holmes) is currently used by the OSINT & Cyber Community in a total of: `42 discord servers`
 
 
 
