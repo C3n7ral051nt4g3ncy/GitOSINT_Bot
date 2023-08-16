@@ -20,7 +20,8 @@ The bot can:
 - Scan a username across all sites that are part of the Sherlock-project
 - Provide intelligence on a public Google Document with xeuledoc OSINT Tool.
 - Provide intelligence on sites the target email is registered on with holehe. (holehe is one of the best tools out there)
-- Scan 2 usernames at once using socialscan 
+- Scan 2 usernames at once using socialscan
+- Scan usernames using WhatsMyName 
 
 
 **Simply invite the BOT to your server.**
@@ -51,25 +52,49 @@ Many CTF teams spend hours on discord sharing their findings and communicating, 
 
 # Commands 🎮
 
+**ℹ️ Bot General Information**
 - `!hello` | Greetings
 - `!bot_help`| This will show you all the commands available  
 - `!whoami` | Find out about GitOsint and his past
 - `!gitosint_bot` | Get information on the bot's handler/creator
+<br>
+
+**:octocat: GitHub OSINT Tool**
 - `!user {username}` | Input Github username to find information on a GitHub user
 - `!email {email_address}` | Input an email address, this reverse search can find a github user
 - `!repo_emails {username} {repo_name}` | Input username + repo name to get all emails associated with a repo
 - `!gitrepos {username}` | Powerful tool, this is based on GitStalk tool, from a username, all user repos are scanned and all emails associated are provided
 - `!search_keys {username}` | Based on OSGINT made by [Hippiiee](https://github.com/hippiiee/osgint) | Input username to search for GPG and SSH Keys. (*GPG Keys found are decoded and will show the user email address)
+<br>
+
+**📱 Cellphone Investigations**
 - `!phone_search {phone number}` | Firefly Tool made by [Lexxrt](https://github.com/Lexxrt) | You will get intelligence on the phone number such as country, phone company, and sometimes location for the USA | Phone international format to input= +336XXXXXXXX
+<br>
+
+
+**📧 Email Investigations**
+- `!holehe {email}` | holehe is a powerful tool known by most OSINT professionals | It is made by [@megadose also known as Palenath](https://github.com/megadose) | Get information on the sites the target email is registered on.
+- `!gmail {email}` | Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
+<br>
+
+
+**👤 Username Investigations**
+- `!whatsmyname {username}` | WhatsMyName OSINT Tool for username enumeration by [Webbreacher](https://github.com/webbreacher) | Input username and get a full scan on +600 sites.
 - `!maigret {username}` | Maigret OSINT Tool for username enumeration by [soxoj](https://github.com/soxoj) | Input username and get a full scan on over 2500 sites. (The sites are in the data.json file)
 - `!twitter_history {username}` | Twitter Historical OSINT Tool | It can currently be used to look up **542 million** historical screen names for 443 million Twitter accounts | Made by [@travisbrown](https://github.com/travisbrown)
 - `!masto {username}` | Masto OSINT Tool | It will scan for the username across Mastodon instances/servers by using the Mastodon API and also the Masto OSINT Tool own database which often beats the Mastodon API | Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
 - `!toutatis {username} {sessionID}` | Toutatis made by [@megadose aka Palenath](https://github.com/megadose) | Extract some interesting Instagram account information
-- `!gmail {email}` | Gmail existence verification | coded by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | Find out if a gmail address is deliverable (Valid)
 - `!sherlock {username}` | Sherlock username OSINT Tool | by [@sherlock-project](github.com/sherlock-project)
-- `!xeuledoc {Google_doc_link}` | xeuledoc created by [@Malfrats](https://github.com/Malfrats)
-- `!holehe {email}` | holehe is a powerful tool known by most OSINT professionals | It is made by [@megadose also known as Palenath](https://github.com/megadose) | Get information on the sites the target email is registered on.
 - `!socialscan {username}` or `!socialscan {username_1},{username_2} `| socialscan is a well-known tool made by [@iojw](https://github.com/iojw) | Scan for one or two usernames simultaneously across various social websites.
+<br>
+
+**📂 Document Investigations**
+- `!xeuledoc {Google_doc_link}` | xeuledoc created by [@Malfrats](https://github.com/Malfrats)
+<br>
+
+**📌 Location Intelligence**
+- `!historical_weather {city} {date}` | Format e.g for 30th of March 2023: `{2023-03-30}` |  Made by me [@C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy)
+<br>
 
 
 # Invite GitOSINT Bot 📨
