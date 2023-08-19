@@ -116,7 +116,7 @@ or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
 # Current Number of servers 
-GitOSINT Bot (Purrlock Holmes) is currently used by the OSINT & Cyber Community in a total of: `42 discord servers`
+GitOSINT Bot (Purrlock Holmes) is currently used by the OSINT & Cyber Community in a total of: `67 discord servers`
 
 
 
