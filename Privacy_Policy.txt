@@ -1,0 +1,35 @@
+Privacy Policy for GitOSINT Bot (𝐏𝐮𝐫𝐫𝐥𝐨𝐜𝐤𝐇𝐨𝐥𝐦𝐞𝐬 🐾#0607 ):
+
+Last updated and effective: 20th of Augusst 2023
+
+GitOSINT Bot is solely created and operated by C3n7ral051nt4g3ncy https://github.com/C3n7ral051nt4g3ncy , also known as @OSINT_Tactical on Twitter, and founder of Tactical OSINT Academy.
+
+
+1. Introduction
+Welcome to the privacy policy for GitOSINT Bot. This policy outlines the types of information collected or that you may provide when you use GitOSINT Bot on Discord and practices for collecting, maintaining, protecting that information.
+
+
+2. Information Collected and How it is collected
+Data from Discord: Discord provides the server name in which my Bot is in. Meaning I will have access to your server name.
+Data from Searches: The bot is hosted on Heroku, strictly no logs are kept. The bot is free, I made it for myself and my investigations. I am based in France with strict GDPR and privacy laws. 
+Data from Maigret: When you initiate the Maigret search, a PDF will be generated, the very second it has been generated, it is deleted and wipes automatically from Heroku. (It will still be in your server until you delete it, but I don't get access to your server)
+
+
+3. How I Use the Server Information
+
+3.1 Statistics: I like to count how many servers my Bot is in, it helps me to provide a better service and to see if the community finds it useful.
+
+3.2 Compliance & Protection: To comply with legal requirements and to protect the rights, privacy, safety, or property of GitOSINT Bot, its users, and the public. Meaning that if I see a server that goes against discord rules, I will act. On 18th of August 2023, my Bot was in a server called "Niggers", well, that soon came to an end and the server was blocked from inviting GitOSINT Bot.
+
+
+4. Disclosure of Your Server Information
+I do not sell, trade, or otherwise transfer server information to outside parties. 
+
+
+5. Data Retention
+No server data is retained
+
+
+6. Changes to the Privacy Policy
+The privacy policy may be updated in the future. Any changes that are made will be posted on this page.
+
