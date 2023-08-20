@@ -21,7 +21,9 @@ The bot can:
 - Provide intelligence on a public Google Document with xeuledoc OSINT Tool.
 - Provide intelligence on sites the target email is registered on with holehe. (holehe is one of the best tools out there)
 - Scan 2 usernames at once using socialscan
-- Scan usernames using WhatsMyName 
+- Scan usernames across +600 sites using the WhatsMyName project
+- Get Historical weather from any city ona given date
+
 
 
 **Simply invite the BOT to your server.**
@@ -114,12 +116,12 @@ or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
 
 # Current Number of servers 
-GitOSINT is currently used in: `42 discord servers`
+GitOSINT Bot (Purrlock Holmes) is currently used by the OSINT & Cyber Community in a total of: `67 discord servers`
 
 
 
 # Thanks 🙏
-A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n, Malfrats Industries, iojw: ⬇
+A big Thanks to Megadose (Palenath), Webbreacher, Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n, Malfrats Industries, iojw: ⬇
 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/0c6461ea-68e5-4bf5-8e6e-50229f2ba9b3" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/5fc7eda5-51a8-4d50-8f03-0e4ee267480d" height="77"></a>
@@ -127,9 +129,11 @@ A big Thanks to Megadose (Palenath), Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, 
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/77971867-3b51-4262-bae8-07ec15a039ec" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/2efae689-307a-489f-9012-54b41d847927" height="77"></a>
 <img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/e64ede6e-3873-4110-9fd0-d2aa1ea3bf8b" height="77"></a>
-<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/1967c6a4-f625-428a-b4aa-afd61564b26c)" height="77"></a>
-<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/d1c93f48-44b9-48c2-999c-e7fd3f0944a9)" height="77"></a>
-<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/6e765ab5-35a8-4117-aa7f-9b8889f5be4b)" height="77"></a>
+<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/1967c6a4-f625-428a-b4aa-afd61564b26c" height="77"></a>
+<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/d1c93f48-44b9-48c2-999c-e7fd3f0944a9" height="77"></a>
+<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/6e765ab5-35a8-4117-aa7f-9b8889f5be4b" height="77"></a>
+<img src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/7f9fd7e7-f4da-43cd-a26d-f35a81c79a4b" height="77"></a>
+
 
 
 
