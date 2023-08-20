@@ -2,7 +2,17 @@
 
 <br>
 
-[![Invite GitOsintBot ](https://img.shields.io/badge/Invite%20GitOsintBot-purple?style=for-the-badge&logo=Discord&link=https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
+> ⚠️ **Update 20th of August 2023**:<br>
+> Originally, my intention was to design a Bot solely for my personal use, enhancing my investigative capacities particularly when I'm on the move. Situations where I might be without laptop access or when Termux proves insufficient made the idea of accessing my Discord BOT via smartphone the perfect remedy.
+
+>Believing in the power of community and the spirit of sharing, I opened access to the Bot for everyone, free of charge. The enthusiasm with which GitOSINT was received was [remarkable](https://twitter.com/cyb_detective/status/1692944310856024535).
+>In fact, it was integrated into over 100 servers. This led to a verification process by Discord, requiring personal identification on my part. I complied, and am pleased to note that the Bot was verified and acknowledged by Discord's team.
+
+> **However, I've made the decision to discontinue the GITOSINT Bot**. My attention was drawn to certain concerns: <br>
+Notably, the Bot being invited to servers which don't align with community standards. **A particular instance being its presence in a server promoting racism.**
+
+<br>
+
 
 <img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a0277f17-f13b-4116-be75-76899e0cf6b6">
 
@@ -100,7 +110,7 @@ Many CTF teams spend hours on discord sharing their findings and communicating, 
 
 
 # Invite GitOSINT Bot 📨
-- You can click the badge at the top of this repository or click [here](https://discord.com/api/oauth2/authorize?client_id=1114671244676177950&permissions=534723947584&scope=bot)
+- GitOSINT Bot has been verified and approved by discord teams
 - GitOSINT Bot has been approved by Top.GG 🎉! You can invite the Bot from Top.gg by clicking [here](https://top.gg/bot/1114671244676177950) and you can also leave stars and feedback on [top.gg](https://top.gg/bot/1114671244676177950)
 <img width="133" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/e30842a7-abf7-41fe-9177-dcdc2e92e59b">
 
@@ -114,11 +124,6 @@ If you like this bot and find it useful for your research, you can contribute fi
 - Send Nitros to my Discord --> `𝙲.𝟶.𝟺#1860` <br>
 or
 - Buy me a coffee --> [Tactical OSINT Analyst Ko-Fi](https://ko-fi.com/tacticalintelanalyst)
-
-# Current Number of servers 
-GitOSINT Bot (Purrlock Holmes) is currently used by the OSINT & Cyber Community in a total of: `67 discord servers`
-
-
 
 # Thanks 🙏
 A big Thanks to Megadose (Palenath), Webbreacher, Soxoj, Sherlock-prokect, Hippiiee, Lexxrt, TravisBrown, un1k0n, Malfrats Industries, iojw: ⬇
