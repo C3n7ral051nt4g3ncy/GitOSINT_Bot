@@ -16,6 +16,12 @@ Notably, the Bot being invited to servers which don't align with community stand
 # 🔮 Future Developments 
 
 
+
+<br>
+
+<br>
+
+
 <img width="633" alt="GITOSINT" src="https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot/assets/104733166/a0277f17-f13b-4116-be75-76899e0cf6b6">
 
 # Description 🧠
