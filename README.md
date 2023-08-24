@@ -15,6 +15,8 @@ Notably, the Bot being invited to servers which don't align with community stand
 
 # 🔮 Future Developments 
 
+I will keep working on GitOSINT Bot, and in 2024, it should be released.
+There will be a ton of API's in the bot, you probably know that API's cost money, and I am not willing to pay for your searches.
 
 
 <br>
